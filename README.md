@@ -1,3 +1,3 @@
 
 
-![Harry](https://github.com/CharlotteMoriarty/python-playground/Python/Image/python_harry.jpg)
+![Harry](https://raw.githubusercontent.com/CharlotteMoriarty/python-playground/master/Python/Image/python_harry.png)
